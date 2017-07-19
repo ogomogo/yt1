@@ -5,4 +5,10 @@
 
 #uber-cliens-241 {padding:20px auto;}
 
+#uber-cliens-241 .owl-carousel .owl-stage-outer {
+    
+    overflow: overlay;
+    
+}
+
 
